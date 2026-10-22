@@ -1,0 +1,8 @@
+{
+  "id": "paseo-limits",
+  "name": "Limits",
+  "description": "Turns a usage-limit, login or connection error in an agent's chat into a card with Retry and Log in buttons.",
+  "requirements": {
+    "paseo": ">=0.12.0"
+  }
+}
